@@ -67,6 +67,7 @@
     {
         "key": "ctrl+shift+c",
         "command": "workbench.action.toggleSidebarVisibility",
+        "when": "!terminalFocus",
         "comment": "Toggle sidebar visibility"
     },
     {
